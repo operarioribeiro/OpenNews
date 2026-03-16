@@ -6,7 +6,7 @@
 
 **Open News** is the application of [Really Simple Syndication (RSS)](https://en.wikipedia.org/wiki/RSS) and [content curation](https://en.wikipedia.org/wiki/Content_curation) [open science](https://en.wikipedia.org/wiki/Open_science) to the creation of  [glocal](https://en.wikipedia.org/wiki/Glocalization) [newsroom](https://en.wikipedia.org/wiki/Newsroom) [multi-image](https://en.wikipedia.org/wiki/Multi-image) [video mixing](https://en.wikipedia.org/wiki/Vision_mixer) [video walls](https://en.wikipedia.org/wiki/Video_wall).
 
-![image](https://operarioribeiro.github.com/OpenParty/blob/main/Open%20News.png)
+![image](https://operarioribeiro.github.com/OpenNews/blob/main/Open%20News.png)
 
 ## Open News Creation:
 
